@@ -66,6 +66,7 @@ class HomeWorkApp1 {
 
         else {
             System.out.println("a < b");
+
         }
     }
 }
